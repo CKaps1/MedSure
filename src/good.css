@@ -1,0 +1,22 @@
+.good-page {
+  width: 5000px;
+  height: 5000px;
+  background-color: #16a736;
+   /* Set the background color to pink */
+}
+
+.good-title {
+  color: white; /* Set the text color to orangish */
+  text-align: center;
+  font-size: 40px;
+}
+
+.good-description {
+  color: white; /* Set the text color to orangish */
+  text-align: center;
+}
+
+img {
+  width: 700px;
+  height: 400px;
+}

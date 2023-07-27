@@ -1,0 +1,22 @@
+.na-page {
+  width: 5000px;
+  height: 5000px;
+  background-color: #ef3c36;
+   /* Set the background color to pink */
+}
+
+.na-title {
+  color: white; /* Set the text color to orangish */
+  text-align: center;
+  font-size: 40px;
+}
+
+.na-description {
+  color: white; /* Set the text color to orangish */
+  text-align: center;
+}
+
+img {
+  width: 700px;
+  height: 400px;
+}
